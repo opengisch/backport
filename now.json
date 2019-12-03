@@ -1,5 +1,5 @@
 {
-  "alias": "backport",
+  "alias": "gh-backport",
   "builds": [{ "src": "src/index.ts", "use": "@now/node" }],
   "env": {
   },
